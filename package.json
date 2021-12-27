@@ -1,0 +1,29 @@
+{
+  "name": "TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/issues"
+  },
+  "homepage": "https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^7.0.0-alpha.2",
+    "sequelize-cli": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
