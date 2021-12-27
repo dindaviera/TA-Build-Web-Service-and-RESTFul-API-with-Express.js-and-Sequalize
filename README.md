@@ -1,23 +1,29 @@
-## 1.Get All
+## Soal-01
 
-![gambar1](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/getAll.png)
+![soal01](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/soal-01.png)
 
-## 2. Get Hewan by Id
+## Soal-02
 
-![gambar2](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/getHewanbyID.png)
+![soal02](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/soal-02.png)
 
-## 3. Put Hewan
+## Soal-03
 
-![gambar3](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/putHewan.png)
+### 1. Input Data
 
-## 4. Delete Hewan by Id
+![input](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/inputDataHewan.png)
 
-![gambar5](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/deleteByID.png)
+### 2.Get All
 
-## 5. Logger
+![getAll](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/getAllDataHewan.png)
 
-![gambar5](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/Logger.png)
+## 3. Get Hewan by Id
 
-## 6. PostChecker
+![getByID](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/getByIdHewan.png)
 
-![gambar6](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/postChecker.png)
+## 4. Update Hewan
+
+![update](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/updateDataHewan.png)
+
+## 5. Delete Hewan by ID
+
+![delete](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/deleteDataHewan.png)
