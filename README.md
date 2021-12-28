@@ -27,3 +27,7 @@
 ## 5. Delete Hewan by ID
 
 ![delete](https://github.com/dindaviera/TA-Build-Web-Service-and-RESTFul-API-with-Express.js-and-Sequalize/blob/main/Postman/deleteDataHewan.png)
+
+## API Documentation
+
+https://documenter.getpostman.com/view/18560998/UVREmR3v
